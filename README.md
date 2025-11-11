@@ -89,4 +89,4 @@ Key challenges addressed include:
 * Add detection of **rare classes** (animals, debris).
 * Improve **energy efficiency** for edge devices.
 
----
+--------
